@@ -19,9 +19,38 @@ h1, h2 {
     font-family: Heebo, sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
+    color: #f5f5f5;
 }
 
 #logo {
     float: left;
     font-size: 250%;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 5px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid #f5f5f5;
+}
+
+.active {
+    border-bottom: 2px solid #f5f5f5;
 }
