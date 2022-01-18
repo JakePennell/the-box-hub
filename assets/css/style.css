@@ -57,8 +57,31 @@ h1, h2 {
 
 /* Hero Image */
 
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
-    background-image: url(../images/hero-image2.jpeg)
+    background: url('../images/hero-image.jpeg') no-repeat center center;
+
+/* Animates zoom on loading page */
+
+animation-name: hero-zoom;
+animation-duration: 3s;
+animation-fill-mode: backwards;
+}
+
+/* Create the zoom effect on hero image */
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1.1);
+    }
+    to{
+        transform: scale (1);
+    }
 }
