@@ -206,3 +206,18 @@ footer {
     padding: 50px;
     color: #FFFFF0;
 }
+
+/* Gallery Page */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+    
+}
+
+#photots > img {
+    width: 100%;
+
+}
