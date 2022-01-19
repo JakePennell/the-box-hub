@@ -120,10 +120,23 @@ animation-fill-mode: backwards;
     padding-top: 50px;
 }
 
+#about-title {
+    text-align: center;
+    font-size: 200%;
+    text-decoration: underline;
+    padding-bottom: 15px;
+}
+
 #about-text {
     text-align: center;
 
     padding: 25px;
 
     background-color: rgb(0,0,0, 0.3);
+
+    border-radius: 25px;
+}
+
+#about-image {
+    
 }
