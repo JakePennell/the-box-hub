@@ -144,7 +144,6 @@ animation-fill-mode: backwards;
     width: 600px;
 
     margin: auto;
-    padding-top: 25px;
 
     background: url('../images/about-image.jpeg') center center;
     background-repeat: no-repeat;
@@ -172,6 +171,19 @@ animation-fill-mode: backwards;
     border: 2px solid #FFFFF0;
     box-sizing: border-box;
     font-size: 75%;
+}
+
+/* Contact Details */
+
+#contact {
+    height: 150px;
+    width: 100%;
+
+    text-align: center;
+
+    padding-top: 50px;
+
+    margin: 0;
 }
 
 /* Footer */
