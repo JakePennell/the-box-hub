@@ -173,3 +173,24 @@ animation-fill-mode: backwards;
     box-sizing: border-box;
     font-size: 75%;
 }
+
+/* Footer */
+
+footer {
+    height: 150px;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links > li {
+    display: inline;
+}
+
+.social-links i {
+    font-size: 200%;
+    margin: 25px;
+    padding: 50px;
+    color: #FFFFF0;
+}
