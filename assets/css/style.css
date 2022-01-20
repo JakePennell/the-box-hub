@@ -140,7 +140,7 @@ animation-fill-mode: backwards;
 
 #about-image {
     height: 300px;
-    width: 600px;
+    width: 450px;
 
     margin: auto;
 
@@ -231,6 +231,21 @@ footer {
         height: 1200px;
         margin: 0 auto;
     }
+
+    #timetable > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
+    #footer > i {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
 }
 
 /* For medium screens sizes from 950px wide and down */
@@ -248,5 +263,9 @@ footer {
         width: 90%;
         height: 1200px;
         margin: 0 auto;
+    }
+
+    #photos {
+        column-count: 2;
     }
 }
