@@ -138,6 +138,12 @@ animation-fill-mode: backwards;
     border-radius: 15px;
 }
 
+#about-us a {
+    color: #a605e6;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
 #about-image {
     height: 300px;
     width: 450px;
