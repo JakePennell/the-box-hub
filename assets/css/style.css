@@ -232,3 +232,21 @@ footer {
         margin: 0 auto;
     }
 }
+
+/* For medium screens sizes from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 25px;
+        margin-bottom: 25px;
+        line-height: 25px;
+    }
+
+    #about-us {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+}
