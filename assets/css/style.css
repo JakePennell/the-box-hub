@@ -208,17 +208,3 @@ footer {
 }
 
 /* Gallery Page */
-
-#photos {
-    width: 100%;
-    clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0;
-    
-}
-
-#photots > img {
-    width: 100%;
-
-}
