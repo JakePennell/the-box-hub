@@ -88,7 +88,7 @@ h2 {
 
 @keyframes hero-zoom {
     from {
-        transform: scale(1.1);
+        transform: scale(1.2);
     }
 
     to {
@@ -128,7 +128,7 @@ h2 {
     font-size: 200%;
     text-decoration: underline;
     padding-bottom: 10px;
-    margin: 25px 25px 25px 25px;
+    margin-top: 50px;
 }
 
 #about-text {
@@ -154,8 +154,6 @@ h2 {
 
     margin: 0 auto;
 
-    padding-bottom: 50px;
-
     background: url('../images/about-image.jpeg') center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -171,7 +169,7 @@ h2 {
     height: 150px;
     width: 100%;
     background-color: black;
-    
+
 }
 
 #timetable div {
