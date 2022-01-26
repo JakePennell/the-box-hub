@@ -128,6 +128,7 @@ h2 {
     width: 60%;
     margin: auto;
     font-size: 120%;
+    padding-bottom: 50px;
 }
 
 #about-title {
@@ -246,7 +247,6 @@ footer {
 @media screen and (max-width: 1280px) {
     #about-us {
         width: 65%;
-        height: 1200px;
         margin: 0 auto;
     }
 
@@ -283,7 +283,6 @@ footer {
 
     #about-us {
         width: 90%;
-        height: 1200px;
         margin: 0 auto;
     }
 
@@ -311,67 +310,67 @@ footer {
         align-content: space-between;
         flex-direction: row;
     }
+}
 
-    /* Form */
+/* Form */
 
-    .form-section {
-        clear: left;
-        background: url("../images/contact-us-bg.jpeg");
-        background-size: cover;
-        background-position: center;
-        height: 900px;
-    }
+.form-section {
+    clear: left;
+    background: url("../images/contact-us-bg.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
 
-    .signup-form {
+.signup-form {
 
-        color: #FFFFF0;
-        background-color: rgb(0, 0, 0, 0.5);
-        max-width: 400px;
+    color: #FFFFF0;
+    background-color: rgb(0, 0, 0, 0.5);
+    max-width: 400px;
 
-        padding: 30px;
+    padding: 30px;
 
-        position: relative;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 
-        border-radius: 25px;
+    border-radius: 25px;
 
-    }
+}
 
-    .signup-form>h2 {
-        color: #FFFFF0;
-        margin-bottom: 20px;
-    }
+.signup-form>h2 {
+    color: #FFFFF0;
+    margin-bottom: 20px;
+}
 
-    .text-input {
-        background: transparent;
-        color: #FFFFF0;
-        width: 100%;
-        height: 30px;
-        margin: 5px 0 20px 0;
-        border: 2px solid #FFFFF0;
-        border-radius: 2px;
-    }
+.text-input {
+    background: transparent;
+    color: #FFFFF0;
+    width: 100%;
+    height: 30px;
+    margin: 5px 0 20px 0;
+    border: 2px solid #FFFFF0;
+    border-radius: 2px;
+}
 
-    .text-input:hover {
-        border-color: #a605e6;
-    }
+.text-input:hover {
+    border-color: #a605e6;
+}
 
-    .join-button {
-        margin-top: 20px;
-        border-radius: 25px;
-        padding: 10px 15px 10px 15px;
-        text-align: center;
-        font-size: 100%;
-        background-color: #a605e6;
-        color: #FFFFF0;
-        display: block;
-        text-transform: uppercase;
-    }
+.join-button {
+    margin-top: 20px;
+    border-radius: 25px;
+    padding: 10px 15px 10px 15px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #a605e6;
+    color: #FFFFF0;
+    display: block;
+    text-transform: uppercase;
+}
 
-    .join-button:hover {
-        background-color: #FFFFF0;
-        color: #a605e6;
-    }
+.join-button:hover {
+    background-color: #FFFFF0;
+    color: #a605e6;
 }
