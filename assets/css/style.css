@@ -17,6 +17,7 @@ body {
 
 nav {
     display: flex;
+    justify-content: space-between;
 }
 
 h1,
@@ -33,10 +34,8 @@ h2 {
 }
 
 #menu {
-    width: 100%;
     font-size: 110%;
     letter-spacing: 5px;
-    display: inline;
 }
 
 #menu,
