@@ -33,20 +33,24 @@ h2 {
 }
 
 #menu {
+    width: 100%;
     font-size: 110%;
     letter-spacing: 5px;
-
+    display: inline;
 }
 
 #menu,
 #logo {
     line-height: 75px;
+
 }
 
 #menu li {
+    display: inline;
     list-style-type: none;
     margin-right: 25px;
     text-align: center;
+
 }
 
 #menu a {
@@ -240,7 +244,7 @@ footer {
 
 /* For large to medium screens sizes from 1200px wide and down */
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1280px) {
     #about-us {
         width: 65%;
         height: 1200px;
@@ -249,7 +253,6 @@ footer {
 
     #timetable>div {
         width: 100%;
-        clear: both;
         height: 150px;
         padding: 0;
     }
@@ -266,12 +269,17 @@ footer {
 /* For medium screens sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
+
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
     #menu {
-        clear: left;
-        float: left;
         margin-left: 25px;
         margin-bottom: 25px;
         line-height: 25px;
+
     }
 
     #about-us {
