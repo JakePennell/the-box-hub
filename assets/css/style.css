@@ -13,7 +13,6 @@ body {
     color: #FFFFF0;
 }
 
-
 /* Headings and Logo */
 
 nav {
@@ -192,12 +191,11 @@ h2 {
 /* Contact Details */
 
 #contact {
-    height: 150px;
     width: 100%;
 
     text-align: center;
 
-    padding-top: 50px;
+    padding-top: 25px;
 
     margin: 0;
 }
@@ -205,7 +203,7 @@ h2 {
 /* Footer */
 
 footer {
-    height: 150px;
+    padding-top: 25px;
 }
 
 .social-links {
