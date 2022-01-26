@@ -309,6 +309,11 @@ footer {
         justify-content: space-between;
         align-content: space-between;
         flex-direction: row;
+        font-size: 150%;
+    }
+
+    menu li {
+        font-size: 150%;
     }
 }
 
