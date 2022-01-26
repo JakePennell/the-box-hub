@@ -321,6 +321,10 @@ footer {
         width: 100%;
     }
 
+    #photos {
+        column-count: 1;
+    }
+
     .active {
         border-bottom: none;
     }
