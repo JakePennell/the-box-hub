@@ -279,7 +279,10 @@ footer {
         margin-left: 25px;
         margin-bottom: 25px;
         line-height: 25px;
+    }
 
+    #cover-text {
+        width: 100%;
     }
 
     #about-us {
