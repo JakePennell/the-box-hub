@@ -58,7 +58,8 @@ h2 {
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #FFFFF0;
+    border-bottom: 2px solid #a605e6;
+    color: #a605e6;
 }
 
 .active {
@@ -168,7 +169,6 @@ h2 {
 
 }
 
-
 /* Timetable */
 
 #timetable {
@@ -241,7 +241,7 @@ footer {
 
 /* Media Queries */
 
-/* For large to medium screens sizes from 1200px wide and down */
+/* For large to medium screens sizes from 1280px wide and down */
 
 @media screen and (max-width: 1280px) {
     #about-us {
@@ -265,9 +265,9 @@ footer {
 
 }
 
-/* For medium screens sizes from 950px wide and down */
+/* For medium screens sizes from 768px wide and down */
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 768px) {
 
     nav {
         flex-direction: column;
@@ -302,65 +302,76 @@ footer {
     }
 }
 
-/* Form */
+/* For smaller screens sizes from 320px wide and down */
 
-.form-section {
-    clear: left;
-    background: url("../images/contact-us-bg.jpeg");
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-}
+@media screen and (max-width: 320px) {
+    nav {
+        display: flex;
+        justify-content: space-between;
+        align-content: space-between;
+        flex-direction: row;
+    }
 
-.signup-form {
+    /* Form */
 
-    color: #FFFFF0;
-    background-color: rgb(0, 0, 0, 0.5);
-    max-width: 400px;
+    .form-section {
+        clear: left;
+        background: url("../images/contact-us-bg.jpeg");
+        background-size: cover;
+        background-position: center;
+        height: 900px;
+    }
 
-    padding: 30px;
+    .signup-form {
 
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+        color: #FFFFF0;
+        background-color: rgb(0, 0, 0, 0.5);
+        max-width: 400px;
 
-    border-radius: 25px;
+        padding: 30px;
 
-}
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
 
-.signup-form>h2 {
-    color: #FFFFF0;
-    margin-bottom: 20px;
-}
+        border-radius: 25px;
 
-.text-input {
-    background: transparent;
-    color: #FFFFF0;
-    width: 100%;
-    height: 30px;
-    margin: 5px 0 20px 0;
-    border: 2px solid #FFFFF0;
-    border-radius: 2px;
-}
+    }
 
-.text-input:hover {
-    border-color: #a605e6;
-}
+    .signup-form>h2 {
+        color: #FFFFF0;
+        margin-bottom: 20px;
+    }
 
-.join-button {
-    margin-top: 20px;
-    border-radius: 25px;
-    padding: 10px 15px 10px 15px;
-    text-align: center;
-    font-size: 100%;
-    background-color: #a605e6;
-    color: #FFFFF0;
-    display: block;
-    text-transform: uppercase;
-}
+    .text-input {
+        background: transparent;
+        color: #FFFFF0;
+        width: 100%;
+        height: 30px;
+        margin: 5px 0 20px 0;
+        border: 2px solid #FFFFF0;
+        border-radius: 2px;
+    }
 
-.join-button:hover {
-    background-color: #FFFFF0;
-    color: #a605e6;
+    .text-input:hover {
+        border-color: #a605e6;
+    }
+
+    .join-button {
+        margin-top: 20px;
+        border-radius: 25px;
+        padding: 10px 15px 10px 15px;
+        text-align: center;
+        font-size: 100%;
+        background-color: #a605e6;
+        color: #FFFFF0;
+        display: block;
+        text-transform: uppercase;
+    }
+
+    .join-button:hover {
+        background-color: #FFFFF0;
+        color: #a605e6;
+    }
 }
