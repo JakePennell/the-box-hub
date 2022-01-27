@@ -328,7 +328,10 @@ footer {
         justify-content: space-between;
         align-content: space-between;
         flex-direction: row;
-        font-size: 150%;
+        font-size: 125%;
+        padding-top: 10px;
+        padding-right: 25px;
+
     }
 
     menu a {
