@@ -314,6 +314,10 @@ footer {
 
         font-size: 120%;
     }
+
+    #logo {
+        font-size: 200%;
+    }
 }
 
 /* For smallest screens sizes from 320px wide and down */
