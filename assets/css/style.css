@@ -226,6 +226,10 @@ footer {
     color: #FFFFF0;
 }
 
+.social-links i:hover {
+    color: #a605e6;
+}
+
 /* Gallery Page */
 
 #photos {
