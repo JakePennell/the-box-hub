@@ -101,7 +101,7 @@ h2 {
     }
 
     to {
-        transform: scale (1);
+        transform: scale (1.0);
     }
 }
 
@@ -305,7 +305,18 @@ footer {
     }
 }
 
-/* For smaller screens sizes from 320px wide and down */
+/* For smaller screens sizes from 416px wide and down */
+
+@media screen and (max-width: 416px) {
+    nav a {
+        display: flex;
+        flex-direction: column;
+
+        font-size: 120%;
+    }
+}
+
+/* For smallest screens sizes from 320px wide and down */
 
 @media screen and (max-width: 320px) {
     nav {
