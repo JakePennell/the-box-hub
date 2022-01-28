@@ -13,7 +13,7 @@ Users of this website will be able to get all the information they for the follo
 
 You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box-hub/)
 
-![Am I Responsive Image](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/am-i-responsive.png)
+![Am I Responsive Image](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/am-i-responsive-readme.png)
 
 ## User Experience (UX)
 
@@ -60,7 +60,7 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 - The Navigation Bar is a clear and concise directory with fully working links to the Home, Gallry and Contact Us pages. 
 - It is style with an underline for the active page and when hovered over, it changes colour to the neon purple that appears subtly throughout the website.
 
-![Logo and Nav Bar]()
+![Logo and Nav Bar](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/logo-nav-readme.png)
 
 ### Hero Image
 
@@ -94,14 +94,12 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 
 - The Contact Us section provides the businesses address and contact details, making it easy for the viewer to make contact. 
 
-** Image of Contact Us **
-
 ### Footer
 
 - The footer is a simple but effective selection of fully working soical media links, displayed as icons.
 - The icons are style similarly to the Nav options, in that they highlight in purple when hovered over. 
 
-** Image of footer **
+** Image of contact us and footer **
 
 ## Gallery 
 
@@ -116,7 +114,7 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 - This is acheived by completing the contact form and selecting the desired goal. Fitness, Boxing Skills or Self Defense.
 - I have used the https://formdump.codeinstitute.net as the destination for the submitted data as it is just a 'dummy' form.
 
-** Image of Gallery page **
+** Image of Contact Us page **
 
 ## Future Features
 
