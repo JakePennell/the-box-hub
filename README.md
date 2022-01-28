@@ -18,43 +18,43 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 
 ** Add screen shot from AM I RESPONSIVE **
 
-H2 Existing Features
+## Existing Features
 
-H3 Logo
+### Logo
 
-H3 Navigation
+### Navigation
 
-H3 Hero Image
+### Hero Image
 
-H3 About Us Bio
+### About Us Bio
 
-H3 About Us Image 
+### About Us Image 
 
-H3 Timetable
+### Timetable
 
-H3 Footer
+### Footer
 
-H2 Gallery 
+## Gallery 
 
-H3 Sign Up Page
+### Sign Up Page
 
-H2 Features left to implement 
+## Features left to implement 
 
-H2 Testng
+## Testing
 
-H3 Validation
+### Validation
 
-H3 Unfixed Bugs
+### Unfixed Bugs
 
-H2 Deployment 
+## Deployment 
 
-H2 Credits
+## Credits
 
-H3 Content
+### Content
 
-H3 Media
+### Media
 
-H2 
+## H2 
 
 
 
