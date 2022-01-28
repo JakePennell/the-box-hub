@@ -15,7 +15,7 @@ Users of this website will be able to get all the information they for the follo
 
 You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box-hub/)
 
-** Add Am I Responsive Image here **
+![Am I Responsive Image](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/am-i-responsive.png)
 
 ## Existing Features
 
@@ -79,15 +79,30 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 
 ** Image of Gallery page **
 
-## Sign Up Page
+## Contact Us Page
 
+- As mentiond in th About Us section, the website offers the viewer the chance to claim a free class. 
+- This is acheived by completing the contact form and selecting the desired goal. Fitness, Boxing Skills or Self Defense.
+- I have used the https://formdump.codeinstitute.net as the destination for the submitted data as it is just a 'dummy' form.
 
+** Image of Gallery page **
 
-## Features left to implement 
+## Future Features
+
+To further improve my website, I would like to add additonal features in the future These include:
+1. A map of where the gym can be found.
+2. A 'meet the team' page with a personal bio of the gym trainers.
+3. Videos of classes in session as part of the Gallery page.
 
 ## Testing
 
+Testing was a crucial part of my process to ensure my website performed as well as possible. Below I have detailed the steps I took to test my site comprehensivley.
+
 ### Validation
+
+- HTML: No errors were returned when passing through the official W3C validator.
+
+- CSS: No errors were found when passing through the official W3C validator.
 
 ### Unfixed Bugs
 
