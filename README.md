@@ -50,23 +50,38 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 
 - This black and white image of a man boxing serves to break up the about us section and the timetable. Without this, the home page would be too wordy and not visually appealing.  
 
+** Image of About Us section **
+
 ### Timetable
 
 - The simple box method works really well to show the viewer what classes are available and when. 
 - The icons are an added bit of visuals to make the section more interesting viewing. 
 
+** Image of Timetable **
+
 ### Contact Us
 
 - The Contact Us section provides the businesses address and contact details, making it easy for the viewer to make contact. 
+
+** Image of Contact Us **
 
 ### Footer
 
 - The footer is a simple but effective selection of fully working soical media links, displayed as icons.
 - The icons are style similarly to the Nav options, in that they highlight in purple when hovered over. 
 
+** Image of footer **
+
 ## Gallery 
 
-### Sign Up Page
+- The Gallery page is used to show the viewer what they can expect at one of the classes. 
+- The styling is simple but effective with a tiled effect, images seperated by a thin white border. 
+
+** Image of Gallery page **
+
+## Sign Up Page
+
+
 
 ## Features left to implement 
 
