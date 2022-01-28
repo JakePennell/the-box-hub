@@ -60,7 +60,7 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 - The Navigation Bar is a clear and concise directory with fully working links to the Home, Gallry and Contact Us pages. 
 - It is style with an underline for the active page and when hovered over, it changes colour to the neon purple that appears subtly throughout the website.
 
-![Logo and Nav Bar](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/logo-nav-readme.png)
+![Logo and Nav Bar Screenshot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/logo-nav-readme.png)
 
 ### Hero Image
 
@@ -68,7 +68,7 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 - The animation used to slowly zoom out gives it added visual appeal.
 - The overlying text states in clear and simple terms what the business is and where it is based. 
 
-** Add image of Hero Image **
+![Hero image with text overlay Screenshot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/hero-image-readme.png)
 
 ### About Us Bio
 
@@ -81,14 +81,14 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 
 - This black and white image of a man boxing serves to break up the about us section and the timetable. Without this, the home page would be too wordy and not visually appealing.  
 
-** Image of About Us section **
+![About Us Screenshot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/about-us-readme.png)
 
 ### Timetable
 
 - The simple box method works really well to show the viewer what classes are available and when. 
 - The icons are an added bit of visuals to make the section more interesting viewing. 
 
-** Image of Timetable **
+![Timetable Screenshot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/timetable-readme.png)
 
 ### Contact Us
 
@@ -99,14 +99,14 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 - The footer is a simple but effective selection of fully working soical media links, displayed as icons.
 - The icons are style similarly to the Nav options, in that they highlight in purple when hovered over. 
 
-** Image of contact us and footer **
+![Contact Us and Footer Screenshot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/contact-us-footer-readme.png)
 
 ## Gallery 
 
 - The Gallery page is used to show the viewer what they can expect at one of the classes. 
 - The styling is simple but effective with a tiled effect, images seperated by a thin white border. 
 
-** Image of Gallery page **
+![Gallery Page Screenhot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/gallery-readme.png)
 
 ## Contact Us Page
 
@@ -114,7 +114,7 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 - This is acheived by completing the contact form and selecting the desired goal. Fitness, Boxing Skills or Self Defense.
 - I have used the https://formdump.codeinstitute.net as the destination for the submitted data as it is just a 'dummy' form.
 
-** Image of Contact Us page **
+![Contact Us Page Screenhot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/contact-us-readme.png)
 
 ## Future Features
 
