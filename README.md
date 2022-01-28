@@ -4,8 +4,6 @@
 
 For my first project, I have created a website for a fictional boxing gym based in South London. The aim of my site is to encourage individuals of all ages and abilities to come and give boxing a go. Their motivation could be to increase their fitness, hone their boxing skills, be more confident, self defence, or just a bit of fun! 
 
-The theme is distinct. With mainly darker backgrounds with off-white text. However there is an occasional pop of colour from the neon purple thats is used sparingly. 
-
 Users of this website will be able to get all the information they for the following main points:
 
 - WHO it caters for
@@ -16,6 +14,39 @@ Users of this website will be able to get all the information they for the follo
 You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box-hub/)
 
 ![Am I Responsive Image](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/am-i-responsive.png)
+
+## User Experience (UX)
+
+### User Stories
+
+#### First Time Visitors
+- As a First Time Visitor, I want it to be easy to understand who the business are, what they do and what they can offer me.
+- As a First Time Visitor, I to be able to find my around the website easily using simple Navigation.
+- As a First Time Visitor, I want to know how to contact them should I wish to. Including on Social Media.
+- As a First Time Visitor, I want to get a feel of what other customers experience through images.
+
+#### Returning Visitor Goals
+- As a Returning Visitor, I want to find information on which classes are available and when. 
+- As a Returning Visitor, I want to find out how to initiate the process of joining a class or signing up for future contact.
+
+#### Frequent User Goals
+- As a Frequent User, I want to check if there has been any changes to timetables or added classes.
+- As a Frequent User, I want feel part of the community with updated pictures with myself included.
+
+### Design
+
+#### Colour Scheme
+- To maintain a strong, bold feel to the website, inkeeping with the theme of Boxing, I have chosen a distintive colour scheme. 
+- The dark grey and black backgrounds are contrasted by an off-white, almost Ivory shade of white. 
+- o add a pop of colour, I have used a neon purple in places. I have kept this to a minimal to ensure it stands out.
+
+### Typography
+- The two fonts used are Oxygen & Heebo with Sans Serif acting as a fallback if the fonts aren't imported correctly. 
+- Oxygen & Heebo complient the Colour Scheme and general theme as they are strong and bold in style. 
+
+
+### Imagery
+- I have used very bold, striking images throughout the website. Capturing the community spirit of hard working individuals.
 
 ## Existing Features
 
