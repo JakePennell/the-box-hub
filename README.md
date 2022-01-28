@@ -60,7 +60,7 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 - The Navigation Bar is a clear and concise directory with fully working links to the Home, Gallry and Contact Us pages. 
 - It is style with an underline for the active page and when hovered over, it changes colour to the neon purple that appears subtly throughout the website.
 
-** Add image of Nav bar with hover activated **
+![Logo and Nav Bar]()
 
 ### Hero Image
 
