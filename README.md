@@ -33,37 +33,31 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 - As a Frequent User, I want to check if there has been any changes to timetables or added classes.
 - As a Frequent User, I want feel part of the community with updated pictures with myself included.
 
-### Design
+## Design
 
 #### Colour Scheme
 - To maintain a strong, bold feel to the website, inkeeping with the theme of Boxing, I have chosen a distintive colour scheme. 
 - The dark grey and black backgrounds are contrasted by an off-white, almost Ivory shade of white. 
 - o add a pop of colour, I have used a neon purple in places. I have kept this to a minimal to ensure it stands out.
-
 ### Typography
 - The two fonts used are Oxygen & Heebo with Sans Serif acting as a fallback if the fonts aren't imported correctly. 
 - Oxygen & Heebo complient the Colour Scheme and general theme as they are strong and bold in style. 
-
-
 ### Imagery
 - I have used very bold, striking images throughout the website. Capturing the community spirit of hard working individuals.
 
 ## Existing Features
 
 ### Logo
-
 - The Logo I created is a strong, bold logo that sets the theme for the whole project. 
 - It acts as an anchor to bring the user back to the home page when clicked. 
 
 ### Navigation
-
 - The Navigation Bar is a clear and concise directory with fully working links to the Home, Gallry and Contact Us pages. 
 - It is style with an underline for the active page and when hovered over, it changes colour to the neon purple that appears subtly throughout the website.
 
 ![Logo and Nav Bar Screenshot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/logo-nav-readme.png)
 
 ### Hero Image
-
 - The Hero Image is a powerful image that draws the viewers attention to the fact this website is designed with boxing in mind. 
 - The animation used to slowly zoom out gives it added visual appeal.
 - The overlying text states in clear and simple terms what the business is and where it is based. 
@@ -71,31 +65,26 @@ You can see my website here: [The Box Hub](https://jakepennell.github.io/the-box
 ![Hero image with text overlay Screenshot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/hero-image-readme.png)
 
 ### About Us Bio
-
 - The About Us sectio is a basic 'bio' of the business.
 - It is designed to portay the message that this club is accessable to all ages and skill levels. 
 - The styling is inkeeping with the general them.
 - I have included a call to action by signing up for a free class. This is delivered via a working link to the contact us page. Highlighted by bold and colourful text.
 
 ### About Us Image 
-
 - This black and white image of a man boxing serves to break up the about us section and the timetable. Without this, the home page would be too wordy and not visually appealing.  
 
 ![About Us Screenshot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/about-us-readme.png)
 
 ### Timetable
-
 - The simple box method works really well to show the viewer what classes are available and when. 
 - The icons are an added bit of visuals to make the section more interesting viewing. 
 
 ![Timetable Screenshot](https://github.com/JakePennell/the-box-hub/blob/main/assets/images/timetable-readme.png)
 
 ### Contact Us
-
 - The Contact Us section provides the businesses address and contact details, making it easy for the viewer to make contact. 
 
 ### Footer
-
 - The footer is a simple but effective selection of fully working soical media links, displayed as icons.
 - The icons are style similarly to the Nav options, in that they highlight in purple when hovered over. 
 
@@ -125,25 +114,49 @@ To further improve my website, I would like to add additonal features in the fut
 
 ## Testing
 
-Testing was a crucial part of my process to ensure my website performed as well as possible. Below I have detailed the steps I took to test my site comprehensivley.
+Testing was a crucial part of my process to ensure my website performed as well as possible. Below I have detailed the steps I took to test my site comprehensivley. I successfully tested my website in the following broswers: Chrome, Safari & Firefox. All the Navigation, Social Media and Internal links work as designed. As well as the contact us / sign up page.
 
 ### Validation
-
 - HTML: No errors were returned when passing through the official W3C validator.
-
 - CSS: No errors were found when passing through the official W3C validator.
 
-### Unfixed Bugs
+### Lighthouse
+- My lighthouse scores are very strong. Particualry the accessability score which is 96. 
+
+## Bugs
+
+I encountered several bugs along my journey. The main issues were around content display and responsiveness.
+- Section Heights: I had originall given each section of a defined height. This meant that although they looked fine on my desktop, they would not respond to my effort to make the webiste responsive on differetn devises. This was resolved by removing the height value on various sections. 
+- My navigation links overlapped on smaller devices. My initial solution was to reduce the text size but that negetively effetced the asthetics of the site. Therefore, to fix this I used the display: flex function to re-order the Nav links. 
+- My Social Media links were also problamatic s they were stacking on smaller devices. This was due to unnecesserily large border and margins. When these were reduced, the links lined up a behaved how I intended. 
+
+## Unfixed Bugs
+
+I have no unfixed bugs. 
 
 ## Deployment 
+
+This website was deployed to GitHub pages. The steps to deploy are as follows:
+
+1. In the GitHub repository, navigate to settings tab.
+2. From the source section drop-down menu, select the Master Branch.
+3. Once the Master Branch has been selected, the page provided the link to the completed website.
+
+- Here is the link to the repository: [My Repository](https://github.com/JakePennell/the-box-hub)
+- Here is the link to the live website: [The Box Hub](https://jakepennell.github.io/the-box-hub/)
 
 ## Credits
 
 ### Content
+- The Slack Community were amazing and helped me fix bugs and improve my designs throughout my project.
+- My mentor Jack gave me numerious suggestions on layout and section sizing to make my website more visually appealing. 
+- I used W3C regurly for bug fixes and suggested features.
+- The code in the CI Love Running Project served as inspiration for my website with in many places. No coded directly used but used as inspiration to create my own.
 
 ### Media
+- All my images are from: [Pexels](https://www.pexels.com/)
+- All my Icons are from : [Font Awesome](https://fontawesome.com/)
 
-## H2 
 
 
 
